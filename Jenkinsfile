@@ -1,9 +1,5 @@
 pipeline {
     agent any
-    tools {
-        maven 'Maven3'
-        jdk 'JAVA21'
-    }
     stages {
         stage('Download Code') {
             steps {

@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> techlabs, Happy Learning </h1>
+   <h1> Why are you here </h1>
 
   
 </form>
